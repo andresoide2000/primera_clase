@@ -5,3 +5,18 @@ Diagrama de entidad relación:
 
 Representando relaciones:
 	- La cardinalidad de una relacion especifica cuantas instancias de una entidad puedene estar asociadas con cuantas instancias de la otra endidad. Existe uno a uno, uno a muchos y muchos a muchos.
+
+Normalización de tablas:
+
+1 Create table : Not Null : No habra valores vacios
+Auto incremental: la primary key se genera incrementalmente
+default
+unsigned
+primary key : define el primary key
+2
+
+1 Create table : Not Null : No habra valores vacios
+Normalización de tablas:
+
+1 Create table : Not Null : No habra valores vacios
+

@@ -1,5 +1,5 @@
 import express from "express"; // import express
-let cards = []
+let cards = [];
 
 const app = express(); // create an express app
 app.use(express.json()); // use the express.json middleware
